@@ -3,7 +3,8 @@ import Calculator from "../components/Calculator";
 import ClientsStrip from "../components/ClientsStrip";
 import Testimonials from "../components/Testimonials";
 import CookieBanner from "../components/CookieBanner";
-import ContactForm from "../components/ContactForm";  
+import ContactForm from "../components/ContactForm";
+  
 
 
 
