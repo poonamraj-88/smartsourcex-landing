@@ -223,13 +223,12 @@ export default function Home() {
               <ul className="mt-5 space-y-2 text-slate-700 text-sm">
                 <li>• Book consultation call</li>
                 <li>• Choose your plan</li>
-                <li>• Begin first search within 48 hours</li>
-                <li>• Receive first candidates within 7–10 days</li>
+                <li>• Begin first search after kickoff</li>
+                <li>• Receive first shortlist within 7 business days</li>
               </ul>
               <div className="mt-6 rounded-xl border border-slate-200 bg-slate-50 p-4 text-sm text-slate-700">
                 <p>
-                  <strong>Risk-Free for 30 Days:</strong> If you’re not
-                  satisfied, we’ll refund your first month — no questions asked.
+                  <strong>30-Day Free Trial: No upfront cost, no retainer, and no commitment fee. You only pay if we successfully place a candidate during the trial — a flat SGD 5,000 fee per hire.
                 </p>
               </div>
             </div>
