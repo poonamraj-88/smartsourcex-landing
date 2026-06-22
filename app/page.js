@@ -63,39 +63,39 @@ export default function Home() {
                 name: "Starter",
                 price: "$6,500",
                 features: [
-                  "✅ 2 active searches simultaneously",
+                  "✅ Up to 2 active searches ",
                   "✅ Dedicated recruiter assigned",
-                  "✅ 48-hour response time",
+                  
                   "✅ Basic candidate screening",
                   "✅ Email & Slack support",
                   "✅ Monthly performance report",
-                  "✅ Shortlist delivered ≤ 5 business days",
+                  "✅ Shortlist delivered ≤ 7 business days",
                 ],
               },
               {
                 name: "Growth",
                 price: "$11,100",
                 features: [
-                  "✅ Up to 5 roles",
-                  "✅ Priority sourcing & screening",
-                  "✅ 48-hour response time",
+                  "✅ Up to 5 active roles",
+                   
+                 
                   "✅ Advanced candidate screening",
                   "✅ Email, Slack & WhatsApp support",
                   "✅ Bi-weekly performance report",
-                  "✅ Shortlist delivered ≤ 3–4 business days",
+                  "✅ Shortlist delivered ≤ 7 business days",
                 ],
               },
               {
                 name: "Enterprise",
                 price: "$21,000",
                 features: [
-                  "✅ Up to 10 roles",
+                  "✅ Up to 10 active roles",
                   "✅ Full recruiter + sourcer squad",
-                  "✅ 24-hour response time",
+                  
                   "✅ Premium candidate screening",
                   "✅ Multi-channel support",
                   "✅ Weekly performance report",
-                  "✅ Shortlist delivered ≤ 2 business days",
+                  "✅ Shortlist delivered ≤ 7 business days",
                 ],
               },
             ].map((plan) => (
