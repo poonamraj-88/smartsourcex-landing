@@ -54,9 +54,9 @@ export default function ContactForm() {
       <div>
         <label className="text-sm font-medium">Plan</label>
         <select name="plan" className="mt-1 w-full rounded-md border px-3 py-2">
-          <option value="Starter">Starter — $8,500/mo</option>
-          <option value="Growth">Growth — $10,500/mo</option>
-          <option value="Enterprise">Enterprise — $15,000/mo</option>
+          <option value="Starter">Starter — $6,500/mo</option>
+          <option value="Growth">Growth — $11,100/mo</option>
+          <option value="Enterprise">Enterprise — $21,000/mo</option>
         </select>
       </div>
       <div>
