@@ -3,9 +3,9 @@ import { useState, useMemo } from "react";
 
 // ✅ Updated plan prices + descriptions
 const PLANS = [
-  { id: "starter",    name: "Starter Plan",    price: 8500,  description: "Startups & small teams (2 active searches)" },
-  { id: "growth",     name: "Growth Plan",     price: 10500, description: "Scaling businesses (up to 5 active searches)" },
-  { id: "enterprise", name: "Enterprise Plan", price: 15000, description: "Established companies (up to 12 searches)" },
+  { id: "starter",    name: "Starter Plan",    price: 6500,  description: "Startups & small teams (2 active searches)" },
+  { id: "growth",     name: "Growth Plan",     price: 11100, description: "Scaling businesses (up to 5 active searches)" },
+  { id: "enterprise", name: "Enterprise Plan", price: 21000, description: "Established companies (up to 12 searches)" },
 ];
 
 // Helper to coerce empty/invalid input to 0
