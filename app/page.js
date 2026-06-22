@@ -166,10 +166,11 @@ export default function Home() {
             {[
               {
                 q: "Try Risk-Free for 30 Days — what does that include?",
-      "No upfront cost, no retainer, and no commitment fee. We embed a dedicated recruiter into your hiring workflow from day one. During the 30-day trial, you receive a full role intake and hiring strategy session, screened candidate shortlists, regular progress updates, and direct access to your dedicated recruiter. You only pay if we successfully place a candidate during the trial period. A flat fee of SGD 5,000 applies per successful hire. If no placement is made within 30 days, you owe us nothing and the engagement simply ends.",
-              },
-              {
-                q: "What if you can't fill a role?",
+      a: "No upfront cost, no retainer, and no commitment fee. We embed a dedicated recruiter into your hiring workflow from day one. During the 30-day trial, you receive a full role intake and hiring strategy session, screened candidate shortlists, regular progress updates, and direct access to your dedicated recruiter. You only pay if we successfully place a candidate during the trial period. A flat fee of SGD 5,000 applies per successful hire. If no placement is made within 30 days, you owe us nothing and the engagement simply ends."
+
+               },
+               {
+  q: "What if you can't fill a role?",
                 a: "We offer a 60-day replacement guarantee. If a candidate leaves within 60 days, we'll find a replacement at no additional cost.",
               },
               {
@@ -227,11 +228,11 @@ export default function Home() {
                 <li>• Receive first shortlist within 7 business days</li>
               </ul>
               <div className="mt-6 rounded-xl border border-slate-200 bg-slate-50 p-4 text-sm text-slate-700">
-                <p>
-                  <strong>30-Day Free Trial: No upfront cost, no retainer, and no commitment fee. You only pay if we successfully place a candidate during the trial — a flat SGD 5,000 fee per hire.
-                </p>
-              </div>
-            </div>
+  <p>
+    <strong>30-Day Free Trial:</strong> No upfront cost, no retainer, and no commitment fee. You only pay if we successfully place a candidate during the trial — a flat SGD 5,000 fee per hire.
+  </p>
+</div>
+</div>
 
             {/* Right: EmailJS form */}
             <div className="rounded-2xl border border-slate-200 p-6 shadow-sm">
