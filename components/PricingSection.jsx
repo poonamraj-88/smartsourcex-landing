@@ -38,7 +38,7 @@ export default function PricingSection() {
         "✅ Weekly performance report",
         "✅ First shortlist delivered within 7 business days",,
       ],
-    },
+    },git status
   ];
 
   return (
