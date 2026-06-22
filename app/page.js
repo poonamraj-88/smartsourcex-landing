@@ -166,11 +166,11 @@ export default function Home() {
             {[
               {
                 q: "Try Risk-Free for 30 Days — what does that include?",
-                a: "Money-Back Guarantee: If you're not satisfied with our service quality in the first 30 days, we'll refund your entire first month—no questions asked. In your first 30 days you get: complete role intake and strategy session; first batch of screened candidates; detailed progress reports; and direct access to your dedicated recruiter.",
+      "No upfront cost, no retainer, and no commitment fee. We embed a dedicated recruiter into your hiring workflow from day one. During the 30-day trial, you receive a full role intake and hiring strategy session, screened candidate shortlists, regular progress updates, and direct access to your dedicated recruiter. You only pay if we successfully place a candidate during the trial period. A flat fee of SGD 5,000 applies per successful hire. If no placement is made within 30 days, you owe us nothing and the engagement simply ends.",
               },
               {
                 q: "What if you can't fill a role?",
-                a: "We offer a 90-day replacement guarantee. If a candidate leaves within 90 days, we'll find a replacement at no additional cost.",
+                a: "We offer a 60-day replacement guarantee. If a candidate leaves within 60 days, we'll find a replacement at no additional cost.",
               },
               {
                 q: "Can I pause or cancel my subscription?",
