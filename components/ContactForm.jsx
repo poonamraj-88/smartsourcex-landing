@@ -27,10 +27,12 @@ export default function ContactForm() {
         setStatus({ ok: false, msg: "Something went wrong. Please try again." });
       }
     } catch (err) {
-      setStatus({ ok: false, msg: "Could not send your message. Please try again." });
-    } finally {
-      setSending(false);
-    }
+  console.error("EmailJS error:", err);
+  setStatus({
+    ok: false,
+    msg: err?.text || err?.message || "Could not send your message. Please try again.",
+  });
+}
   };
 
   return (
