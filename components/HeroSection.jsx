@@ -31,7 +31,7 @@ export default function HeroSection() {
         {/* CTA Buttons */}
         <div className="mt-8 flex flex-col gap-3 sm:flex-row">
           <a
-            href="https://calendly.com/your-link"
+            href="hhttps://calendly.com/poonam-raj-smartsourcex/30min"
             className="inline-flex items-center justify-center rounded-xl bg-emerald-500 px-4 py-2 text-sm sm:px-5 sm:py-3 sm:text-base font-medium text-neutral-950 hover:bg-emerald-400 hover:shadow-lg hover:shadow-emerald-500/40 hover:scale-105 transition duration-200"
           >
             Book a Call
