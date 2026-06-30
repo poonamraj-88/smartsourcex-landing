@@ -31,11 +31,15 @@ export default function HeroSection() {
         {/* CTA Buttons */}
         <div className="mt-8 flex flex-col gap-3 sm:flex-row">
           <a
-            href="hhttps://calendly.com/poonam-raj-smartsourcex/30min"
-            className="inline-flex items-center justify-center rounded-xl bg-emerald-500 px-4 py-2 text-sm sm:px-5 sm:py-3 sm:text-base font-medium text-neutral-950 hover:bg-emerald-400 hover:shadow-lg hover:shadow-emerald-500/40 hover:scale-105 transition duration-200"
-          >
-            Book a Call
-          </a>
+            
+  href="https://calendly.com/poonam-raj-smartsourcex/30min"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex items-center justify-center rounded-xl bg-emerald-500 px-4 py-2 text-sm sm:px-5 sm:py-3"
+>
+  Book a Call
+</a>
+          
           <a
             href="/subscribe"
             className="inline-flex items-center justify-center rounded-xl border border-neutral-700 px-4 py-2 text-sm sm:px-5 sm:py-3 sm:text-base font-medium hover:border-neutral-500 hover:shadow-lg hover:shadow-emerald-500/30 hover:scale-105 transition duration-200"
