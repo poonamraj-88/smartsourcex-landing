@@ -51,8 +51,8 @@ export default function TermsPage() {
 
           <h2>4. Candidate Guarantee</h2>
           <p>
-            We provide a 90-day replacement guarantee: if a placed candidate
-            leaves within 90 days, we’ll conduct a replacement search at no
+            We provide a 60-day replacement guarantee: if a placed candidate
+            leaves within 60 days, we’ll conduct a replacement search at no
             additional placement fee (subscription fees continue as normal).
           </p>
 
